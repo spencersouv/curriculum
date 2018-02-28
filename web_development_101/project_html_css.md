@@ -1397,7 +1397,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Michal Petrik's solution (Easy)](https://github.com/vikingviolinist/google_homepage) - [View in Browser](https://vikingviolinist.github.io/google_homepage)
 * [Tabish Bashir (Easy)](https://github.com/Tabish33/google-homepage) - [View in Browser]( https://tabish33.github.io/google-homepage/ )
 * [chrobertson's Solution (Easy)](https://github.com/chrobertson/google-homepage) - [View in Browser](https://chrobertson.github.io/google-homepage/)
-
+* [Spencersouv's solution (Easy)](https://github.com/spencersouv/google-homepage)
 ### Additional Resources
 
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
